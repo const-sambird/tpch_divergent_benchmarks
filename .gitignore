@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+results/
+tpch-dbgen/
+tpcbench/data/
+tpcbench/query_root/
+.DS_Store
+index_config.csv
+replicas.csv
+routes.csv
