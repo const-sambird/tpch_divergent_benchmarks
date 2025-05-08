@@ -3,7 +3,7 @@ __pycache__/
 results/
 tpch-dbgen/
 tpcbench/data/
-tpcbench/query_root/
+tpcbench/query_root/perf_query_gen/
 .DS_Store
 index_config.csv
 replicas.csv
